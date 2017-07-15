@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/HomeFolder/.android/build-cache/dd992b3db65e008bfa57478700c3581e763de13f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3be4cbae3a8aa52f4648da284efcd6c0c49fdfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cfb80abe3c8f8838d3430e66aa00de3c3546a3e">
+        <dex dex="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dbf810694429de933ec8bd23fbc299d9216ce5bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HomeFolder/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.4.0/ee860e7723eef61080e34f5b098f7ee22b356770/realm-annotations-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee860e7723eef61080e34f5b098f7ee22b356770">
+        <dex dex="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-3.4.0_a8a9a955c7d2943326eeec137d7943c8d2419ec0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HomeFolder/.android/build-cache/981813545235ab03003e1bfe5a87336f9a1cf432/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd9bc76e438f6e38bf6f8ba72821552fe5afbe23">
+        <dex dex="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_392d0b10b012d57750e5d6126df198822cc5b10c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/HomeFolder/AndroidStudioProjects/RedSubastas/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2064c62f8e82a146b4b21320d5b9de03b76e701/classes.dex" />
+    </item>
+
+</items>

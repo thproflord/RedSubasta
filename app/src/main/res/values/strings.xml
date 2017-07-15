@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RedSubastas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vista_detalle">VistaDetalle</string>
+    <string name="title_activity_crear">Crear</string>
+    <string name="done">Hecho</string>
+    <string name="title_activity_login">Ingresar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Clave</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">Este Email es invalido</string>
+    <string name="error_invalid_password">Esta clave es muy corta</string>
+    <string name="error_incorrect_password">Esta clave es incorrecta</string>
+    <string name="error_field_required">Esta campo es requerido</string>
+    <string name="permission_rationale">"Permisos de contactos necesarios para el autocompletado del email"
+    </string>
+    <string name="puja_exitosa">La puja ha sido exitosa</string>
+    <string name="puja_insuficiente">La puja no ha superado el minimo</string>
+    <string name="empty_camp">No puede estar vacio el campo</string>
+    <string name="camera">Camara</string>
+    <string name="gallery">Galeria</string>
+    <string name="cancel">Cancelar</string>
+    <string name="select">Seleccionar</string>
+    <string name="mayor">Mayores pujadores</string>
+    <string name="winner">Ganador</string>
+</resources>
